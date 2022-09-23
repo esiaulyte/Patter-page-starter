@@ -1,0 +1,19 @@
+.mozaika {
+  color: white;
+  font-size: 20px;
+}
+
+.mozaika2 {
+  height: 256px;
+  background-image: url(assets/imgs/header.jpeg);
+  background-position: center;
+}
+
+.green {
+  background-color: rgb(42, 177, 42);
+  color: white;
+}
+
+.card-custom {
+  margin: 0 1rem;
+}
